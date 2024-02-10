@@ -1,0 +1,13 @@
+{
+  "description": "Map containing Country, Capital, Currency, and some States of that Country",
+  "region": "Asia",
+  "countries": {
+      "country": "India",
+      "data": {
+        "minimumtemp" : 6,		
+        "maximumtemp" : 45,
+        "currency" : "Rupee",
+		"capital" : "New Delhi"
+		}
+	}
+}

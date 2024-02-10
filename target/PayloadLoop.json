@@ -1,0 +1,5 @@
+{
+	"name" : "lander",	
+	"description" : "this is ur first planet",
+	"homepage" : [ "https://www.isro.com", "https://www.hackers.com", 10 ]
+}
